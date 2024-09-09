@@ -14,7 +14,7 @@ struct item
 // find() - find the item in the inventory array. Inventory list
 // should be sorted by part number, so use binary search!
 // Return its index if found, -1 otherwise.
-int find(const vector<item> &inventory, item &i)
+item find(const vector<item> &inventory, item &i)
 {
     // YOUR CODE HERE
 }

@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-    // TBD
+    // Write some tests!
 }
